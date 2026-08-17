@@ -1,9 +1,9 @@
 require('dotenv').config();
 
 module.exports = { // NIE RUSZAĆ - USTAW TO W .ENV
-    TOKEN: process.env.TOKEN,
-    CLIENT_ID: process.env.CLIENT_ID,
-    GUILD_ID: process.env.GUILD_ID,
+    TOKEN: process.env.MTUzODg0NTgwOTI1NTEyOTE5MA.GM48Ac.rW4rn31DZ22H896lI3ulJ1x1B23xya-UHIsZoM,
+    CLIENT_ID: process.env.1538845809255129190,
+    GUILD_ID: process.env.1494380028937502853,
     
     // Ustaw tutaj id kanałów
     CHANNELS: {
